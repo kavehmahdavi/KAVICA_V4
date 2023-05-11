@@ -1,0 +1,18 @@
+# Include
+include setup.py
+include README.md
+include user_guide.md
+include CopyRight.txt
+include LICENSE.txt
+include metadata.json
+include requirements.txt
+include version.py
+
+
+include data
+include demo
+include venv
+
+
+# Include the data files
+# recursive-include data *
